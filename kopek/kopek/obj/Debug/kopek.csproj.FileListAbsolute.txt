@@ -1,0 +1,7 @@
+D:\Visual Studio Projects\kopek\kopek\obj\Debug\kopek.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\kopek\kopek\obj\Debug\kopek.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\kopek\kopek\bin\Debug\kopek.exe.config
+D:\Visual Studio Projects\kopek\kopek\bin\Debug\kopek.exe
+D:\Visual Studio Projects\kopek\kopek\bin\Debug\kopek.pdb
+D:\Visual Studio Projects\kopek\kopek\obj\Debug\kopek.exe
+D:\Visual Studio Projects\kopek\kopek\obj\Debug\kopek.pdb
